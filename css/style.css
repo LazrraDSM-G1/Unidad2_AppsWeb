@@ -125,3 +125,16 @@ footer {
 #contenedor.colores-nuevos .tarjeta p {
     color: #eeeeee;
 }
+.tarjeta {
+    box-shadow: 4px 4px 0px #222222;
+}
+.tarjeta h2 {
+    text-transform: capitalize;
+}
+.tarjeta p {
+    font-size: 1rem;
+    transition: 0.3s;
+}
+.tarjeta:hover p {
+    font-weight: bold;
+}
