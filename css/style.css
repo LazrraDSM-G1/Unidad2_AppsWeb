@@ -114,3 +114,14 @@ footer {
     transform: scale(1.08);
     background-color: #555555;
 }
+#contenedor.colores-nuevos .tarjeta {
+    background-color: #25203b;
+    color: white;
+    border-color: #facc15;
+}
+#contenedor.colores-nuevos .tarjeta h2 {
+    color: #facc15;
+}
+#contenedor.colores-nuevos .tarjeta p {
+    color: #eeeeee;
+}
